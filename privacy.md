@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy For PoorTechGuy
+title: Privacy Policy For apkdown.info
 permalink: /privacy/
 lang_dir: ltr
 description: This Privacy Policy document contains types of information that is collected and recorded by apkdown.info and how we use it.
