@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: الموبايل السابع
-email: abdulbasetbasher@yandex.com
+title: التطبيقات بضغطة واحدة
+email: anasbashercontent@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  مدونة متخصصة في العاب ويرامج ومراجعات الموبايل
+  نقدم لك تجربة استثنائية حيث يتم دمج معرفتنا الواسعة بعالم الألعاب والتقنية مع شغفنا اللاحق لاستكشاف أحدث الابتكارات والتطورات في عالم الهواتف المحمولة
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://apkdown.info" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/logo.png
-author: abdokb
+author: anasbashercontent
 
 # Build settings
 theme: minima
